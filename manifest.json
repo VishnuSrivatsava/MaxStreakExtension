@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Codeforces Max Streak",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Codeforces Max Streak"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://codeforces.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
