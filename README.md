@@ -30,7 +30,7 @@ This Chrome extension allows you to find the maximum streak of accepted submissi
 
 - If the extension doesn't display the maximum streak, ensure you are logged in to your Codeforces account and have friends added on Codeforces for the comparison.
 
-- If you encounter any issues or bugs, please [submit an issue](https://github.com/your-username/codeforces-max-streak-extension/issues) on GitHub with detailed information about the problem.
+- If you encounter any issues or bugs, please [submit an issue](https://github.com/VishnuSrivatsava/MaxStreakExtension/issues) on GitHub with detailed information about the problem.
 
 ## Contributing
 
